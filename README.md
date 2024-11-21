@@ -29,3 +29,6 @@ This project analyzes earthquake data in Turkey from 1914 to 2023 using Python. 
 ---
 
 For more details, refer to the notebook and outputs.
+ [KAGGLE LİNK](https://www.kaggle.com/code/azizcanbalc/turkeyearthquake-eda-project)
+
+# Balık Türü Sınıflandırma Projesi
